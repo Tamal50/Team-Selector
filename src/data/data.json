@@ -1,104 +1,104 @@
 [{
     "id": 1,
-    "full_name": "Cristiano Ronaldo",
+    "name": "Cristiano Ronaldo",
     "salary": 5000000,
     "team": "Portugal",
     "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec593cc431fb70007482137%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1321%26cropX2%3D3300%26cropY1%3D114%26cropY2%3D2093",
     "age": 35
   }, {
     "id": 2,
-    "full_name": "Lionel Messi",
+    "name": "Lionel Messi",
     "salary": 4500000,
     "team": "Argentina",
     "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec595d45f39760007b05c07%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D989%26cropX2%3D2480%26cropY1%3D74%26cropY2%3D1564",
     "age": 33
   }, {
     "id": 3,
-    "full_name": "Neymar jr",
+    "name": "Neymar jr",
     "salary": 4200000,
     "team": "Brazil",
     "image": "https://i.pinimg.com/originals/a8/e6/3b/a8e63bd233c9d7bd54525d2d1db4a678.jpg",
     "age": 28
   }, {
     "id": 4,
-    "full_name": "David Beckham",
+    "name": "David Beckham",
     "salary": 2900000,
     "team": "British",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_odNq23KxGL6L4ew0WZXTZ4O9xu8F7RYMsQ&usqp=CAU",
     "age": 45
   }, {
     "id": 5,
-    "full_name": "Kylian Mbappe",
+    "name": "Kylian Mbappe",
     "salary": 3500000,
     "team": "French",
     "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ece97421f4c83000768d7a7%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D954%26cropX2%3D4190%26cropY1%3D414%26cropY2%3D3648",
     "age": 22
   }, {
     "id": 6,
-    "full_name": "Paul Pogba",
+    "name": "Paul Pogba",
     "salary": 2500000,
     "team": "French",
     "image": "https://s.hs-data.com/bilder/spieler/gross/180976.jpg",
     "age": 27
   }, {
     "id": 7,
-    "full_name": "Gareth Bale",
+    "name": "Gareth Bale",
     "salary": 2700000,
     "team": "British",
     "image": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ecec1c2938ec500060ab3ba%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D838%26cropX2%3D2069%26cropY1%3D159%26cropY2%3D1391",
     "age": 31
   }, {
     "id": 8,
-    "full_name": "Ronaldinho",
+    "name": "Ronaldinho",
     "salary": 2800000,
     "team": "Brazil",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxOvOXGaL0rQ85gX1dWm1OJ6gsNtMoJgTdTw&usqp=CAU",
     "age": 40
   }, {
     "id": 9,
-    "full_name": "Harry Kane",
+    "name": "Harry Kane",
     "salary": 2300000,
     "team": "British",
     "image": "https://s.hs-data.com/bilder/spieler/gross/179293.jpg",
     "age": 27
   }, {
     "id": 10,
-    "full_name": "Romelu Lukaku",
+    "name": "Romelu Lukaku",
     "salary": 2545000,
     "team": "Belgian",
     "image": "https://www.inter.it/binaries/content/gallery/internazionale/photos/2020/09/16/2020-09-16-15-22-02_327473.JPG/2020-09-16-15-22-02_327473.JPG/internazionale%3AcinemaApp",
     "age": 29
   }, {
     "id": 11,
-    "full_name": "Sergio Aguero",
+    "name": "Sergio Aguero",
     "salary": 3450000,
     "team": "Argentina",
     "image": "https://images.daznservices.com/di/library/GOAL/3e/8d/sergio-aguero-manchester-city-2020-21_5f0t1sac9hoa1d52b725bxaqx.jpg?t=1193406965&quality=60&w=1200&h=800",
     "age": 32
   }, {
     "id": 12,
-    "full_name": "Philippe Coutinho",
+    "name": "Philippe Coutinho",
     "salary": 3005000,
     "team": "Brazil",
     "image": "https://images.daznservices.com/di/library/GOAL/c9/65/philippe-coutinho-bayern_lgzr4v83jb6q1m06l79gvrk57.jpg?t=2092603312&quality=100",
     "age": 28
   }, {
     "id": 13,
-    "full_name": "Roberto Firmino",
+    "name": "Roberto Firmino",
     "salary": 2905000,
     "team": "Brazil",
     "image": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F4102b816-d7ee-11e9-9cfd-b79996a387b0.jpg?crop=1500%2C1000%2C0%2C0",
     "age": 26
   }, {
     "id": 14,
-    "full_name": "Bastian Schweinsteiger",
+    "name": "Bastian Schweinsteiger",
     "salary": 2900500,
     "team": "German",
     "image": "https://static.india.com/wp-content/uploads/2014/06/bastian-schweinsteiger1.jpg",
     "age": 34
   }, {
     "id": 15,
-    "full_name": "Dani Alves",
+    "name": "Dani Alves",
     "salary": 3300500,
     "team": "Brazil",
     "image": "https://s.hs-data.com/bilder/spieler/gross/12541.jpg",
